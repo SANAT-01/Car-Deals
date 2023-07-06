@@ -1,0 +1,6 @@
+Buying_Cost -  vhigh med high low
+Maintainance_Cost -  vhigh high med low
+Number_of_doors -  3 4 2 5more
+Number_of_Passenger -  4 more 2
+Luggage_Space -  big med small
+Safety_Features -  high med low
